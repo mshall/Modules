@@ -17,7 +17,7 @@
 
 	<modules>
 		<module>../CommonModule</module>
-
+		<module>../../../POC</module>
 	</modules>
 
 	<dependencies>
